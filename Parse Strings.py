@@ -1,4 +1,4 @@
-from parse_string import word_appear_times
+from start_parse import word_appear_times
 
 
 class ParseString:
